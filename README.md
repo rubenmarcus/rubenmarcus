@@ -14,10 +14,7 @@
 ## 🖖 About
 I´ve been working with webdevelopment since 2010. Im interested in all JS Stack and technologies, and have been working with Front-end and also back-end all this time.
 
-
-
 ## ⚡ Technologies & Skills
-Talk to me about
 - Front-end development using **Angular, React, Vue, JavaScript, SASS, Less, CSS3, HTML5**
 - Backend development using **Node.js, PHP, ASP.NET C#**
 - Mobile application development using **React Native and Flutter**
