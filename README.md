@@ -1,6 +1,3 @@
-
-
-
 <p align="center">
  
    ### Hi there, I´m Ruben Marcus, a FullStack Engineer 👋
@@ -27,4 +24,6 @@ Talk to me about
 - Creating scalable cloud architecture using **AWS**
 - I also have knowledge in UI/UX, Illustration, Video, Photography , Webdesign using **Adobe Photoshop, Adobe Illustrator, Adobe Premiere and Adobe After Effects**
 
-
+## 📷 Photography
+- I´ve been [photographing](https://instagram.com/rubenluz) cultures, street photography and humanitarian with more than 5 NGOS in 9 countries **Brazil, Chile, Bolivia, Bangladesh, India, Thailand, Cambodia, Laos, Pakistan**
+- I´ve made a Book on [**Khumb Mela**](https://www.facebook.com/marketplace/item/3195497150463489/), and was present at the last Khumb in 2019.
