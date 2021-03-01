@@ -7,7 +7,6 @@
   <a href="mailto:ruben@rubenmarcus.com"><img src="https://img.shields.io/badge/-ruben@rubenmarcus.com-c14438?style=flat&logo=Gmail&logoColor=white" /></a>
   <a href="https://rubenmarcus.dev"> <img src="https://img.shields.io/website?down_message=offline&up_message=online&url=https%3A%2F%2Frubenmarcus.dev" /> </a>
 </p>
-   <img width=50% src="https://media.giphy.com/media/oDwLkh1diFCH6/source.gif">
 
 
 ## Github Stats :octocat:
@@ -20,6 +19,14 @@
 </table>
 </center>
 
+
+## Medium Blog
+
+[![Ruben Marcus Medium](https://github-readme-medium.vercel.app/?username=rubenmarcus)](https://medium.com/@rubenmarcus)
+
+
+## Now on my Spotify
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12180941132&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 ## 🖖 About
 I´ve been working with webdevelopment since 2010. Im interested in all JS Stack and technologies, and have been working with Front-end and also back-end all this time.
