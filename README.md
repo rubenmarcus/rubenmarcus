@@ -10,6 +10,16 @@
    <img width=50% src="https://media.giphy.com/media/oDwLkh1diFCH6/source.gif">
 
 
+## Github Stats :octocat:
+<center>
+<table>
+  <tr>
+    <td><img align="left" padding-right="10px" src=https://github-readme-stats.vercel.app/api?username=rubenmarcus&show_icons=true&theme=tokyonight ></td>
+    <td><img align="left" padding-right="10px" src=https://github-readme-stats.vercel.app/api/top-langs/?username=rubenmarcus&show_icons=true&theme=tokyonight &layout=compact></td>
+  </tr>  
+</table>
+</center>
+
 
 ## 🖖 About
 I´ve been working with webdevelopment since 2010. Im interested in all JS Stack and technologies, and have been working with Front-end and also back-end all this time.
