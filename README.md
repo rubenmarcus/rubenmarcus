@@ -20,14 +20,6 @@
 </center>
 
 
-## Medium Blog
-
-[![Ruben Marcus Medium](https://github-readme-medium.vercel.app/?username=rubenmarcus)](https://medium.com/@rubenmarcus)
-
-
-## Now on my Spotify
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12180941132&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-
 ## 🖖 About
 I´ve been working with webdevelopment since 2010. Im interested in all JS Stack and technologies, and have been working with Front-end and also back-end all this time.
 
