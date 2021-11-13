@@ -5,9 +5,6 @@
   <a href="mailto:ruben@rubenmarcus.dev"><img src="https://img.shields.io/badge/-ruben@rubenmarcus.dev-c14438?style=flat&logo=Gmail&logoColor=white" /></a>
 </p>
 
-## I like to travel :airplane:
-
-![image](https://user-images.githubusercontent.com/8454267/141050708-e08343f5-d54e-4a3f-b12e-9577a1db9f3b.png)
 
 ## Github Stats :octocat:
 <center>
