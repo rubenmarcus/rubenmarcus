@@ -5,6 +5,10 @@
   <a href="mailto:ruben@rubenmarcus.dev"><img src="https://img.shields.io/badge/-ruben@rubenmarcus.dev-c14438?style=flat&logo=Gmail&logoColor=white" /></a>
 </p>
 
+## Escalando Apps com React, TypeScript e SOLID 🚀:
+
+
+  <a href="https://bit.ly/escalando-apps-com-react-ts-solid"><img src="https://user-images.githubusercontent.com/8454267/142744542-ec093b39-f24e-4e36-94a2-cafe49e23987.png" /></a>
 
 ## Github Stats :octocat:
 <center>
