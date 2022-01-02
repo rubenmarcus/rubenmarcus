@@ -1,3 +1,4 @@
+
 <p align="center">
   
   <a href="https://www.linkedin.com/in/rubenmarcus/"><img src="https://img.shields.io/badge/-rubenmarcus-blue?style=flat&logo=Linkedin&logoColor=white" /></a>
@@ -5,6 +6,11 @@
   <a href="mailto:ruben@rubenmarcus.dev"><img src="https://img.shields.io/badge/-ruben@rubenmarcus.dev-c14438?style=flat&logo=Gmail&logoColor=white" /></a>
 </p>
 
+
+## Current Working @ this personal projects 🚀:
+
+ -  <a href="https://github.com/rubenmarcus/guiareact.org">GuiaReact.org: React Best Practices Guide in Portuguese</a>
+-  [120 Perguntas sobre Front-end](https://github.com/rubenmarcus/120-perguntas-frontend)
 ## Escalando Apps com React, TypeScript e SOLID 🚀:
 
 
