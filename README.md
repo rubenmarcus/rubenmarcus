@@ -7,7 +7,7 @@
 </p>
 
 
-## Current Working @ this personal projects 🚀:
+## Current Working @ this personal projects:
 
  -  <a href="https://github.com/rubenmarcus/guiareact.org">GuiaReact.org: React Best Practices Guide in Portuguese</a>
 -  [120 Perguntas sobre Front-end](https://github.com/rubenmarcus/120-perguntas-frontend)
