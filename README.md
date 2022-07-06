@@ -7,14 +7,11 @@
 </p>
 
 
-## Currently Working @ this personal projects:
+## my current interests:
 
- -  <a href="https://github.com/rubenmarcus/guiareact.org">GuiaReact.org: React Best Practices Guide in Portuguese</a>
--  [120 Perguntas sobre Front-end](https://github.com/rubenmarcus/120-perguntas-frontend)
-## Escalando Apps com React, TypeScript e SOLID 🚀:
+-  JavaScript,TypeScript, Deno, Node.js, React, Vue.js, Solid.js, Stencil, Svelte, Nuxt, Next.js, Remix
+-  AWS, Terraform, GraphQL ,Docker, K8s
 
-
-  <a href="https://bit.ly/escalando-apps-com-react-ts-solid"><img src="https://user-images.githubusercontent.com/8454267/142744542-ec093b39-f24e-4e36-94a2-cafe49e23987.png" /></a>
 
 ## Github Stats :octocat:
 <center>
