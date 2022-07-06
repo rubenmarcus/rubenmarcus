@@ -1,14 +1,16 @@
 
-<p align="center">
-  
-  <a href="https://www.linkedin.com/in/rubenmarcus/"><img src="https://img.shields.io/badge/-rubenmarcus-blue?style=flat&logo=Linkedin&logoColor=white" /></a>
-  <a href="https://medium.com/@rubenmarcus/"><img src="https://img.shields.io/badge/-@rubenmarcus-03a57a?style=flat&labelColor=03a57a&logo=Medium" /></a>
-  <a href="mailto:ruben@rubenmarcus.dev"><img src="https://img.shields.io/badge/-ruben@rubenmarcus.dev-c14438?style=flat&logo=Gmail&logoColor=white" /></a>
+<p>
+  <a href="https://www.linkedin.com/in/rubenmarcus/">Linkedin</a><br/>
+  <a href="https://medium.com/@rubenmarcus/">Medium - Posts em Português</a><br/>
+    <a href="https://medium.com/@rubenmarcus/">dev.to - English posts</a><br/>
+  <a href="mailto:ruben@rubenmarcus.dev?Subject=Hire">Hire me</a>
 </p>
 
 
-## my current interests:
 
+## my current interests:
+-  System Design & Architeture, Design Patterns, Algorithms, Data Structures
+-  Front-end Development, Back-end Development, CI/CD, Infra/DevOps
 -  JavaScript,TypeScript, Deno, Node.js, React, Vue.js, Solid.js, Stencil, Svelte, Nuxt, Next.js, Remix
 -  AWS, Terraform, GraphQL ,Docker, K8s
 
