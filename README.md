@@ -1,9 +1,9 @@
 
 ## social
 <p>
+  <a href="https://dev.to/rubenmarcus/">dev.to - English posts</a><br/>
   <a href="https://www.linkedin.com/in/rubenmarcus/">Linkedin</a><br/>
   <a href="https://medium.com/@rubenmarcus/">Medium - Posts em Português</a><br/>
-    <a href="https://dev.to/rubenmarcus/">dev.to - English posts</a><br/>
   <a href="mailto:ruben@rubenmarcus.dev?Subject=Hire">Hire me 🇪🇺</a>
 </p>
 
