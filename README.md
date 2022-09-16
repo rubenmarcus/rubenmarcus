@@ -2,6 +2,15 @@
 Hello my name is Ruben I'm a 32 year old software engineer working for <a href="https://github.com/Mintbase">Mintbase</a>
 Im slowly migrating from web2 to web3, learning lots of stuff everyday, but still will always be and work with web2 stuff too.
 
+## mission
+My mission is to make the web more interactive, accessible and fun! For that sake, I try to learn a lot everyday, help as much as I can in the projects I work for and the tech community around, as also mentor and help other developers who joined IT recently.
+Im aware that Im a priviledge guy that had a father that work as developer since I born (1989), so for that I see that creating content and mentoring people is a way to retribute a bit on everything that I got since I was a kid.
+
+## tech radar
+
+I still study a lot on JS, TS, React, HTML5, CSS,Node.js and all techs around everyday, but Im a lot interested on GAN,DeepLearning,AI art,NLP, Machine Learning , Blockchain, NFTs, cripto, metaverse, VR, and all things around it. Its just the beginning of my journey but its a very interesting one!
+
+
 ## social
 <p>
   <a href="https://dev.to/rubenmarcus/">dev.to Blog in English</a><br/>
