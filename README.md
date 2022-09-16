@@ -1,6 +1,6 @@
 
 Hello my name is Ruben I'm a 32 year old software engineer working for <a href="https://github.com/Mintbase">Mintbase</a>
-
+Im slowly migrating from web2 to web3, learning lots of stuff everyday, but still will always be and work with web2 stuff too.
 
 ## social
 <p>
