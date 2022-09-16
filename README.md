@@ -14,7 +14,7 @@ I still study a lot on JS, TS, React, HTML5, CSS,Node.js and all techs around ev
 ## social
 <p>
   <a href="https://www.mintbase.io/human/rubenm4rcus.near">Mintbase profile with photos from NEARCON2022</a><br/>
-  <a href="https://www.mintbase.io/human/rub3n.near">Mintbase profile with my owned art collections</a><br/>
+  <a href="https://www.mintbase.io/human/rub3n.near">Mintbase profile with my owned NFT art collections</a><br/>
   <a href="https://dev.to/rubenmarcus/">dev.to Blog in English</a><br/>
   <a href="https://www.linkedin.com/in/rubenmarcus/">Linkedin</a><br/>
   <a href="https://medium.com/@rubenmarcus/">Medium - Blog em Português</a><br/>
