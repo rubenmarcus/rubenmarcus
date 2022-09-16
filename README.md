@@ -4,7 +4,7 @@ Im slowly migrating from web2 to web3, learning lots of stuff everyday, but stil
 
 ## 🚀 mission
 My mission is to make the web more interactive, accessible and fun! For that sake, I try to learn a lot everyday, help as much as I can in the projects I work for and the tech community around, as also mentor and help other developers who joined IT recently.
-Im aware that Im a priviledge guy that had a father that work as developer since I born (1989), so for that I see that creating content and mentoring people is a way to retribute a bit on everything that I got since I was a kid.
+Im aware that Im a priviledge guy that had a father that worked as developer since I born (1989), so for that I see that creating content and mentoring people is a way to retribute a bit on everything that I got since I was a kid.
 
 ## 🛰️ tech radar
 
