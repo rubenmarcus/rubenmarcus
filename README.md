@@ -1,12 +1,4 @@
-
-:smiley: Hello my name is Ruben I'm a 33 year old software engineer working for <a href="https://github.com/Mintbase">Mintbase</a>
-
-<p>
-
-telegram: @rubenmarcus <br />
-ruben@rubenmarcus.dev
-
-  <a href="https://twitter.com/@rubenmarcus_dev/">twitter</a><br/>
+<a href="https://twitter.com/@rubenmarcus_dev/">twitter</a><br/>
   <a href="https://dev.to/rubenmarcus/">dev.to</a><br/>
   <a href="https://www.linkedin.com/in/rubenmarcus/">Linkedin</a><br/>
   <a href="https://medium.com/@rubenmarcus/">Medium</a><br/>
