@@ -1,7 +1,10 @@
-<center>
-<table>
-  <tr>
-    <td><img align="left" padding-right="10px" src=https://github-readme-stats.vercel.app/api?username=rubenmarcus&show_icons=true ></td>
-  </tr>  
-</table>
-</center>
+[![Tip in Crypto](https://tip.md/badge.svg)](https://tip.md/rubenmarcus)
+
+<b>Tip me in Crypto:</b>
+
+rubenmarcus.sol <br />
+rubenmarcus.sui <br />
+rubenmarcus.eth  <br />
+rub3n.near
+
+:)
