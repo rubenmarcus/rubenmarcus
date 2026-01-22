@@ -3,7 +3,7 @@
 90s internet nostalgia.
 Coding since FrontPage & Dreamweaver 3.
 
-AI full-stack @ [MultiVM Labs](https://github.com/multivmlabs)
+AI full-stack engineer @ [MultiVM Labs](https://github.com/multivmlabs)
 
 Open-source • AI • Crypto
 
