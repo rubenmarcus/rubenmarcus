@@ -1,7 +1,6 @@
 ## Hi, I’m Ruben Marcus
 
-90s internet nostalgia.
-Coding since FrontPage & Dreamweaver 3.
+[Npm.js](https://www.npmjs.com/~rmarcus)
 
 AI full-stack engineer @ [MultiVM Labs](https://github.com/multivmlabs)
 
