@@ -1,0 +1,12 @@
+{
+  "name": "github-profile",
+  "private": true,
+  "type": "module",
+  "description": "GitHub profile README for github.com/rubenmarcus — banner art generated from the rubenmarcus.dev hero assets.",
+  "scripts": {
+    "banner": "node scripts/gen-banner.mjs && ./scripts/gen-banner-gif.sh"
+  },
+  "devDependencies": {
+    "sharp": "^0.34.0"
+  }
+}
