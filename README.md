@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://www.rubenmarcus.dev"><img alt="rubenmarcus.dev" src="assets/badge-site.png" height="30"></a>
   <a href="https://www.rubenmarcus.dev/connect"><img alt="MCP — connect your agent" src="assets/badge-mcp.png" height="30"></a>
-  <a href="https://github.com/rubenmarcus"><img alt="GitHub" src="assets/badge-github.png" height="30"></a>
+  <a href="https://t.me/rubenmarcus"><img alt="Telegram" src="assets/badge-telegram.png" height="30"></a>
   <a href="https://x.com/rubenmarcus_dev"><img alt="X" src="assets/badge-x.png" height="30"></a>
   <a href="https://linkedin.com/in/rubenmarcus"><img alt="LinkedIn" src="assets/badge-linkedin.png" height="30"></a>
   <a href="https://www.rubenmarcus.dev/cv.pdf"><img alt="CV" src="assets/badge-cv.png" height="30"></a>
@@ -43,7 +43,7 @@ Before that: **MultiVM Labs / Quantum** (post-quantum L1 — main site, block ex
 | --- | --- |
 | **2.85M+** | agent messages processed in production (Bitte AI runtime) |
 | **24,164** | unique users on agents I built · **16,703** agents deployed on the runtime |
-| **26** | AI agents built · **25** versioned agent skills |
+| **32** | AI agents and loop roles built · **25** versioned agent skills |
 | **4,569** | AEO scans across **2,259** sites |
 | **34K+** | all-time npm downloads across 8 packages |
 | **#1 · #1** | ECDSA.fail · Optimization Arena QEC decoder |
@@ -122,7 +122,7 @@ Every blog post has a `.md` twin: append `.md` to any post URL.
 
 ## The agent fleet
 
-26 agents, three origins. [Full directory →](https://www.rubenmarcus.dev/agents)
+Three origins: a production fleet that signs transactions, a research command center, and a game harness. [Full directory →](https://www.rubenmarcus.dev/agents)
 
 <details open>
 <summary><b>Bitte Protocol — the production fleet</b></summary>
@@ -155,7 +155,27 @@ Frontier Dissector · Circuit Engineer · Density Analyst · CUDA Engineer · Po
 <details>
 <summary><b>CS Brasil — the Gauntlet</b></summary>
 
-Gauntlet Builders (parallel edits on one 6,543-line file) · Gauntlet Critics (the builder never grades) · Regression Hunter · Bug Hunter (the ruler comes before the fix). [Inside the loop →](https://www.rubenmarcus.dev/blog/inside-the-gauntlet-loop)
+Three rules hold the loop together: the ruler is not negotiable (not "looks good" — *wins or loses against a CS2 frame, by which measure*), the builder never grades its own work, and the loop ends when I stop it, not when an agent declares itself satisfied. Every claim has to carry a number and a `file:line`.
+
+| Role | Contract |
+| --- | --- |
+| **Measured baseline** | Captures every map × 2 aspect ratios × 4 angles before anything changes. No baseline, no A/B — and without A/B the loop is just opinion. |
+| **Graphics critic** | Grades the frame, never the builder's report. Sees pixels and code, nothing else. |
+| **Map fidelity critic** | Grades the map against how the real Brazilian place actually looks. |
+| **Weapons critic** | Visual and feel scored separately. |
+| **UI critic** | Menu and HUD scored separately. |
+| **Gameplay critic** | Movement, bots, combat flow. |
+| **Parallel builders** | Partitioned by a *generated* file/range conflict table, so several agents edit one large file at once without colliding. |
+| **A/B verifier** | Re-shoots the same frames and proves the delta, or the round didn't happen. |
+| **Regression Hunter** | The agent that pays for the whole loop: a visual win that breaks the game is a regression. |
+| **Bug Hunter** | The ruler comes before the fix, and a mutation has to prove the ruler bites. |
+| **Régua** | Writes the invariant, the probe and the gate — 25 consistency criteria that outrank the fidelity bar. |
+| **Asset review** | Adversarial critic on every new character, map, model or texture before the front can be called done. |
+| **Content & faction pipelines** | Build a team, a real-world map, or a whole faction end to end — roster, crest, cover, 3D character, thumbnail, selection video, original voice. |
+
+Critics run in parallel with clean contexts; builders run in parallel across four checkouts of the repo on separate branches, plus dozens of throwaway git worktrees for one-off fixes.
+
+[Inside the loop →](https://www.rubenmarcus.dev/blog/inside-the-gauntlet-loop) · [The AI harness behind the game →](https://www.rubenmarcus.dev/blog/cs-brasil-ai-harness)
 
 </details>
 

@@ -35,9 +35,9 @@ const ICONS = {
     kind: "stroke",
     body: `<circle cx="12" cy="12" r="3"/><path d="M12 2v7M12 15v7M2 12h7M15 12h7"/>`,
   },
-  github: {
-    kind: "fill",
-    body: `<path d="M12 2A10 10 0 0 0 8.84 21.5c.5.08.66-.23.66-.5v-1.69c-2.77.6-3.36-1.34-3.36-1.34-.46-1.16-1.11-1.47-1.11-1.47-.91-.62.07-.6.07-.6 1 .07 1.53 1.03 1.53 1.03.87 1.52 2.34 1.07 2.91.83.09-.65.35-1.09.63-1.34-2.22-.25-4.55-1.11-4.55-4.94 0-1.1.39-1.99 1.03-2.69-.1-.25-.45-1.27.1-2.64 0 0 .84-.27 2.75 1.02.79-.22 1.65-.33 2.5-.33.85 0 1.71.11 2.5.33 1.91-1.29 2.75-1.02 2.75-1.02.55 1.37.2 2.39.1 2.64.64.7 1.03 1.59 1.03 2.69 0 3.84-2.34 4.68-4.57 4.93.36.31.69.92.69 1.85V21c0 .27.16.59.67.5A10 10 0 0 0 12 2z"/>`,
+  telegram: {
+    kind: "stroke",
+    body: `<path d="M22 2L11 13M22 2l-7 20-4-9-9-4 20-7z"/>`,
   },
   x: {
     kind: "fill",
@@ -60,7 +60,7 @@ const ICONS = {
 const BADGES = [
   { out: "site", icon: "globe", label: "rubenmarcus.dev", accent: true },
   { out: "mcp", icon: "mcp", label: "connect your agent", accent: true },
-  { out: "github", icon: "github", label: "rubenmarcus" },
+  { out: "telegram", icon: "telegram", label: "@rubenmarcus" },
   { out: "x", icon: "x", label: "@rubenmarcus_dev" },
   { out: "linkedin", icon: "linkedin", label: "in/rubenmarcus" },
   { out: "cv", icon: "pdf", label: "CV" },
