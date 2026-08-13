@@ -5,11 +5,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.rubenmarcus.dev"><img alt="site" src="https://img.shields.io/badge/site-rubenmarcus.dev-00ff41?style=flat-square&labelColor=000000"></a>
-  <a href="https://www.rubenmarcus.dev/connect"><img alt="MCP" src="https://img.shields.io/badge/MCP-connect%20your%20agent-00ff41?style=flat-square&labelColor=000000"></a>
-  <a href="https://www.rubenmarcus.dev/cv.pdf"><img alt="CV" src="https://img.shields.io/badge/CV-pdf-f5f1ea?style=flat-square&labelColor=000000"></a>
-  <a href="https://linkedin.com/in/rubenmarcus"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-rubenmarcus-f5f1ea?style=flat-square&labelColor=000000"></a>
-  <a href="mailto:ruben@rubenmarcus.dev"><img alt="email" src="https://img.shields.io/badge/email-ruben%40rubenmarcus.dev-f5f1ea?style=flat-square&labelColor=000000"></a>
+  <a href="https://www.rubenmarcus.dev"><img alt="rubenmarcus.dev" src="assets/badge-site.png" height="30"></a>
+  <a href="https://www.rubenmarcus.dev/connect"><img alt="MCP — connect your agent" src="assets/badge-mcp.png" height="30"></a>
+  <a href="https://github.com/rubenmarcus"><img alt="GitHub" src="assets/badge-github.png" height="30"></a>
+  <a href="https://x.com/rubenmarcus_dev"><img alt="X" src="assets/badge-x.png" height="30"></a>
+  <a href="https://linkedin.com/in/rubenmarcus"><img alt="LinkedIn" src="assets/badge-linkedin.png" height="30"></a>
+  <a href="https://www.rubenmarcus.dev/cv.pdf"><img alt="CV" src="assets/badge-cv.png" height="30"></a>
+  <a href="mailto:ruben@rubenmarcus.dev"><img alt="email" src="assets/badge-email.png" height="30"></a>
 </p>
 
 ---
@@ -20,7 +22,7 @@ Senior AI Fullstack Engineer in Lisbon, remote worldwide. 14 years shipping — 
 
 ---
 
-## Building now
+## Latest projects
 
 | Project | What it is |
 | --- | --- |
@@ -32,10 +34,8 @@ Senior AI Fullstack Engineer in Lisbon, remote worldwide. 14 years shipping — 
 | **QEC Decoder — #1** | Top of Optimization Arena's quantum error-correction leaderboard (2,642 EPM, near Bayes-optimal) via a multi-agent campaign with an anti-overfitting evaluation protocol. |
 | **[CS Brasil](https://csbrasil.online)** | Browser FPS built with an agent gauntlet. WebGL, no install, no netcode. 2,191 players, 154K+ kills, 27 countries in alpha. |
 | **[Mirofi.sh](https://mirofi.sh)** | Open-source multi-agent social-simulation engine (GraphRAG/Zep, OASIS) productized into a hosted SaaS. |
-| **[Quantum Wallet](https://wallet.quantum.systems)** | Post-quantum ML-DSA-65 verifier compiled to WASM via Arbitrum Stylus (~374K gas vs ~1.57M pure-EVM), hand-rolled ERC-4337 UserOps. |
-| **[Quantum.systems](https://quantum.systems)** · **[Quantum Scan](https://quantumscan.org)** | Main site and block explorer for a post-quantum L1. |
 
-Before that: **Bitte Protocol** (top human committer on the production AI runtime, #1 on the agent SDK monorepo, #3 on the wallet), **Grover**, **Zup Innovation / Itaú Open Banking**, **Santander**, and a long agency tail — Under Armour, Centauro, Samsung, Panasonic, Monsanto. [Full archive →](https://www.rubenmarcus.dev/portfolio)
+Before that: **MultiVM Labs / Quantum** (post-quantum L1 — main site, block explorer, and an ML-DSA-65 smart wallet on Arbitrum Stylus), **Bitte Protocol** (top human committer on the production AI runtime, #1 on the agent SDK monorepo, #3 on the wallet), **Grover**, **Zup Innovation / Itaú Open Banking**, **Santander**, and a long agency tail — Under Armour, Centauro, Samsung, Panasonic, Monsanto. [Full archive →](https://www.rubenmarcus.dev/portfolio)
 
 ## Numbers
 
@@ -49,9 +49,8 @@ Before that: **Bitte Protocol** (top human committer on the production AI runtim
 | **#1 · #1** | ECDSA.fail · Optimization Arena QEC decoder |
 | **14 years** | shipping · ~2M lines of code, career estimate |
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rubenmarcus&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=8a9488&ring_color=00ff41" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubenmarcus&layout=compact&hide_border=true&langs_count=8&bg_color=000000&title_color=00ff41&text_color=8a9488" height="165">
+<p align="center">
+  <img src="assets/github-stats.png" alt="GitHub: 2,787 stars, 121 public repos, 1,193 followers" width="100%">
 </p>
 
 ## Read me with your agent (MCP)

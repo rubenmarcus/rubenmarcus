@@ -4,7 +4,10 @@
   "type": "module",
   "description": "GitHub profile README for github.com/rubenmarcus — banner art generated from the rubenmarcus.dev hero assets.",
   "scripts": {
-    "banner": "node scripts/gen-banner.mjs && ./scripts/gen-banner-gif.sh"
+    "banner": "node scripts/gen-banner.mjs && ./scripts/gen-banner-gif.sh",
+    "badges": "node scripts/gen-badges.mjs",
+    "stats": "node scripts/gen-stats-card.mjs",
+    "art": "npm run banner && npm run badges && npm run stats"
   },
   "devDependencies": {
     "sharp": "^0.34.0"
