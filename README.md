@@ -16,11 +16,16 @@
 
 ---
 
-Senior AI engineer in Lisbon, remote worldwide. 14 years shipping: fintech and e-commerce first, 4+ years deep in web3, now AI-native products and agent tooling. I build agent systems and the loops that keep them honest: bounded specs, isolated worktrees, evals that fail closed.
-
-Now at Big Shot Pictures (contract, remote for LA): an AI-native animation studio building global franchises (Eloise, the IShowSpeed anime). I build the agentic systems that automate 3D and animation production: Blender, Unreal Engine, MetaHuman, with guardrails and metrics so artists can trust the first pass. Before that, Quantum (MultiVM Labs), where I led the AI engineering behind the **#1 result on ECDSA.fail** and the **#1 QEC decoder** on Optimization Arena and co-authored the paper that came out of it: [ECDSA.Fail: Open Autoresearch](https://arxiv.org/abs/2609.09582) (arXiv:2609.09582). Earlier, Bitte Protocol: a production agent runtime with 2.85M+ messages, 24,164 users and 16,703 deployed agents.
+Senior AI engineer in Lisbon, remote worldwide. 14 years shipping: fintech and e-commerce first, 4+ years deep in web3, now AI-native products and agent tooling. I build agent systems and the loops that keep them honest: bounded specs, isolated worktrees, evals that fail closed. These days that also means automating 3D and animation production (Blender, Unreal Engine, MetaHuman) with agent-driven first passes artists can trust.
 
 **This README speaks MCP.** Point your agent at `https://www.rubenmarcus.dev/api/mcp` and let it read the résumé instead of you: `get_resume`, `get_services`, `check_availability`, `book_intro`. Setup for Claude, ChatGPT, Cursor, Kimi and Codex lives in the [connect guide](https://www.rubenmarcus.dev/connect).
+
+## Highlights
+
+- **#1 on ECDSA.fail** with a 9-role agent campaign across 7+ providers · **#1 QEC decoder** on Optimization Arena (2,642 EPM)
+- Co-author on [ECDSA.Fail: Open Autoresearch](https://arxiv.org/abs/2609.09582) (arXiv:2609.09582), the paper that came out of it
+- Agent runtimes in production: 2.85M+ messages processed, 24,164 users, 16,703 agents deployed
+- 34K+ all-time npm downloads across 8 packages
 
 ## Building now
 
@@ -30,16 +35,13 @@ Now at Big Shot Pictures (contract, remote for LA): an AI-native animation studi
   </a>
 </p>
 
-**[Tupi](https://www.rubenmarcus.dev/demos/tupi/)** · Bertioga channel, 1554: Tupinambá canoes at dawn in real-time 3D (three.js WebGPU), built from prompts with cited historical research. My latest demo drop. The prompt that made it ships on the card.
+- **[Tupi](https://www.rubenmarcus.dev/demos/tupi/)** · Bertioga channel, 1554: Tupinambá canoes at dawn in real-time 3D (three.js WebGPU), built from prompts with cited historical research. Latest demo drop, prompt on the card.
+- **[ScanRepo](https://scanrepo.dev)** · Scan a repo before you clone it: credential stealers, supply-chain traps, fake recruiter scams. 31+ static rules, 6 risk categories, 0 to 100 risk score, nothing cloned or executed. `npx scanrepo owner/repo` in CI.
+- **[AEO.js](https://aeojs.org)** · Answer Engine Optimization for JS sites: `llms.txt`, `ai-index.json`, AI-crawler policy analysis. Astro and Next plugins.
+- **[AEO Checker](https://check.aeojs.org)** · The free scanner on top of AEO.js. 4,569 scans across 2,259 sites.
+- **[CS Brasil](https://csbrasil.online)** · Browser FPS shipped through an agent gauntlet: measured baselines, critics that never grade their own work, A/B frame proof. 2,191 players, 27 countries.
 
-| Project | What it is |
-| --- | --- |
-| **[ScanRepo](https://scanrepo.dev)** | Scan a repo before you clone it: credential stealers, supply-chain traps, fake recruiter scams. 31+ static rules, 6 risk categories, a 0 to 100 risk score, nothing cloned or executed. `npx scanrepo owner/repo` in CI. |
-| **[AEO.js](https://aeojs.org)** | Answer Engine Optimization for JS sites: `llms.txt`, `ai-index.json`, AI-crawler policy analysis. Astro and Next plugins. |
-| **[AEO Checker](https://check.aeojs.org)** | The free scanner on top of AEO.js. 4,569 scans across 2,259 sites. |
-| **[CS Brasil](https://csbrasil.online)** | Browser FPS shipped through an agent gauntlet: measured baselines, critics that never grade their own work, A/B frame proof. 2,191 players, 27 countries. |
-
-Earlier: Ralph Starter, Autoresearcher, Mirofi.sh, and the 14-year archive (Bitte, Grover, Zup/Itaú, Santander, agencies). [Full portfolio →](https://www.rubenmarcus.dev/portfolio)
+Earlier: Ralph Starter, Autoresearcher, Mirofi.sh. [Full 14-year archive →](https://www.rubenmarcus.dev/portfolio)
 
 ## Writing
 
@@ -54,8 +56,8 @@ Every post ships in EN and PT, and every URL has a `.md` twin for agents. [All p
 
 Selectively available for full-time roles and freelance contracts. Fixed scope preferred. I reply within a day or two.
 
-- **[AI products & agent systems](https://www.rubenmarcus.dev/services/ai-product-systems)** · prototype to product, with evals and observability · 3 to 8 weeks
-- **[AI-native frontend & design engineering](https://www.rubenmarcus.dev/services/ai-native-frontend)** · distinctive web product, quality held by the delivery loop · 2 to 6 weeks
-- **[AEO audit & implementation](https://www.rubenmarcus.dev/services/aeo)** · make your site legible and citable to answer engines · 2 to 4 weeks
+- [AI products & agent systems](https://www.rubenmarcus.dev/services/ai-product-systems) · prototype to product, with evals and observability · 3 to 8 weeks
+- [AI-native frontend & design engineering](https://www.rubenmarcus.dev/services/ai-native-frontend) · distinctive web product, quality held by the delivery loop · 2 to 6 weeks
+- [AEO audit & implementation](https://www.rubenmarcus.dev/services/aeo) · make your site legible and citable to answer engines · 2 to 4 weeks
 
 [ruben@rubenmarcus.dev](mailto:ruben@rubenmarcus.dev) · [contact](https://www.rubenmarcus.dev/contact) · or just let your agent call `book_intro`.
