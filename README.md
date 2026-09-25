@@ -18,7 +18,7 @@
 
 Senior AI engineer in Lisbon, remote worldwide. 14 years shipping: fintech and e-commerce first, 4+ years deep in web3, now AI-native products and agent tooling. I build agent systems and the loops that keep them honest: bounded specs, isolated worktrees, evals that fail closed.
 
-At Quantum (MultiVM Labs) I led the AI engineering behind the **#1 result on ECDSA.fail** and the **#1 QEC decoder** on Optimization Arena, and I'm a co-author on the paper that came out of it: [ECDSA.Fail: Open Autoresearch](https://arxiv.org/abs/2609.09582) (arXiv:2609.09582). Before that, Bitte Protocol: a production agent runtime with 2.85M+ messages, 24,164 users and 16,703 deployed agents.
+Now at Big Shot Pictures, a next-generation studio building global franchises (Eloise, the IShowSpeed anime, The Bucket List Family). Before that, Quantum (MultiVM Labs), where I led the AI engineering behind the **#1 result on ECDSA.fail** and the **#1 QEC decoder** on Optimization Arena and co-authored the paper that came out of it: [ECDSA.Fail: Open Autoresearch](https://arxiv.org/abs/2609.09582) (arXiv:2609.09582). Earlier, Bitte Protocol: a production agent runtime with 2.85M+ messages, 24,164 users and 16,703 deployed agents.
 
 **This README speaks MCP.** Point your agent at `https://www.rubenmarcus.dev/api/mcp` and let it read the résumé instead of you: `get_resume`, `get_services`, `check_availability`, `book_intro`. Setup for Claude, ChatGPT, Cursor, Kimi and Codex lives in the [connect guide](https://www.rubenmarcus.dev/connect).
 
